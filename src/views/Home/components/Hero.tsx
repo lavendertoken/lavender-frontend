@@ -107,10 +107,10 @@ const Hero = () => {
       >
         <Flex flex="1" flexDirection="column">
           <Heading scale="xxl" color="secondary" mb="24px">
-            {t('The moon is made of pancakes.')}
+            {t('There is always a strong yield on the farm.')}
           </Heading>
           <Heading scale="md" mb="24px">
-            {t('Trade, earn, and win crypto on the most popular decentralized platform in the galaxy.')}
+            {t('Trade, earn, and win crypto on the most popular decentralized platform out in the sticks.')}
           </Heading>
           <Flex>
             {!account && <ConnectWalletButton mr="8px" />}
