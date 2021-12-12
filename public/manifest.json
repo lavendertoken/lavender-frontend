@@ -1,11 +1,11 @@
 {
-  "short_name": "PancakeSwap",
-  "name": "PancakeSwap",
-  "description": "Farm CAKE with Pancake LP Tokens",
-  "homepage_url": "https://pancakeswap.finance",
+  "short_name": "LavenderFarm",
+  "name": "LavenderFarm",
+  "description": "Farm SPRIG with Lavender LP Tokens",
+  "homepage_url": "https://lavendertoken.farm",
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#1FC7D4",
+  "theme_color": "#B594C3",
   "background_color": "#ffffff",
   "orientation": "portrait",
   "icons": [
